@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: contactetisang.online
+  - host: contactetisang.onlin
     http:
       paths:
       - path: /
